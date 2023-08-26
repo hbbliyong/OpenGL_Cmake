@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/code/opengl/hello/build",
+  "command": "C:/MinGW/bin/gcc.exe  @CMakeFiles/hello.dir/includes_C.rsp -g -o CMakeFiles/hello.dir/src/glad.c.obj -c E:/code/opengl/hello/src/glad.c",
+  "file": "E:/code/opengl/hello/src/glad.c",
+  "output": "CMakeFiles/hello.dir/src/glad.c.obj"
+},
+{
+  "directory": "E:/code/opengl/hello/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/hello.dir/includes_CXX.rsp -g -o CMakeFiles/hello.dir/src/main.cpp.obj -c E:/code/opengl/hello/src/main.cpp",
+  "file": "E:/code/opengl/hello/src/main.cpp",
+  "output": "CMakeFiles/hello.dir/src/main.cpp.obj"
+}
+]
